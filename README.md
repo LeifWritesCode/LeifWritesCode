@@ -38,4 +38,4 @@ My resume is [here](https://leif.uk/cv/). If you have a role in mind, and can pr
 
 ### Tools
 
-[![Platforms](https://skillicons.dev/icons?i=git,visualstudio,github,vim)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,visualstudio,github,vim)](https://skillicons.dev)
